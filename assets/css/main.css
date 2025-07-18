@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Nexa';
+  src: url('/fonts/Nexa-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Nexa', sans-serif;
+}
