@@ -3,7 +3,7 @@
     <div class="w-full hidden md:flex justify-between items-center py-2 xl:px-16 md:px-8 lg:px-20 border-b top-0 fixed bg-[#5f259f] text-white z-50 xl:text-[16px] lg:text-[14px] md:text-[14px]">
 
       <div>
-        <NuxtImg src="../public/img/logo.png" alt="logo de l'application" class="xl:w-[70px] lg:w-[70px] md:w-[70px]" ></NuxtImg>
+        <NuxtImg src="/img/logo.png" alt="logo de l'application" class="xl:w-[70px] lg:w-[70px] md:w-[70px]" ></NuxtImg>
       </div>
 
       <div class="flex flex-row gap-4 items-center uppercase">
