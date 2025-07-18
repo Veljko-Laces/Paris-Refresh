@@ -5,7 +5,7 @@
             <p class="text-xl md:text-2xl lg:text-3xl xl:text-3xl">Il fait chaud ? On a ce qu’il vous faut !</p>
             <p class="text-[#5f259f] text-xl md:text-2xl lg:text-3xl xl:text-3xl">Balades au frais, pauses à l’ombre ou fontaines pour se désaltérer…</p>
         </div>
-        <p class="text-xl md:text-2xl lg:text-3xl xl:text-3xl"><span class="text-[#5f259f]">Paris Refresh</span>, c’est votre guide pour trouver les meilleurs coins pour souffler un peu quand le thermomètre grimpe.</p>
+        <p class="text-xl md:text-2xl lg:text-3xl xl:text-3xl"><span class="text-[#5f259f]">Paris Refresh</span>, c’est votre guide pour trouver les meilleurs coins, pour souffler un peu quand le thermomètre grimpe.</p>
         <p class="text-xl md:text-2xl lg:text-3xl xl:text-3xl">Naviguez et vous retrouverez les différents <span class="text-[#5f259f]">parcs et jardins</span>, <span class="text-[#5f259f]">activités et équipements en plein air</span> et les <span class="text-[#5f259f]">fontaines à boire</span>.</p>
         <div class="flex flex-col gap-4">
             <p class="text-xl md:text-2xl lg:text-3xl xl:text-3xl">Explorez la ville autrement, restez au frais, et profitez de Paris même sous le soleil !</p>

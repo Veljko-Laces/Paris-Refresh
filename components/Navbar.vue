@@ -26,7 +26,7 @@
       <div class="flex justify-between items-center">
 
         <div>
-          <NuxtImg src="../public/img/logo.png" alt="logo de l'application" class="w-[60px]" ></NuxtImg>
+          <NuxtImg src="/img/logo.png" alt="logo de l'application" class="w-[60px]" ></NuxtImg>
         </div>
 
         <button @click="isOpen = !isOpen">
@@ -62,7 +62,7 @@
           équipements et activités
         </NuxtLink>
         <NuxtLink to="/Espaces-verts" @click="isOpen = false">
-          ésaces verts
+          espaces verts
         </NuxtLink>
         <NuxtLink to="/Fontaines-a-boire" @click="isOpen = false">
           Fontaines à boire
